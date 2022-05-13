@@ -1,0 +1,26 @@
+body {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body header {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body header ul {
+  width: 100%;
+  margin: 0;
+  list-style: none;
+}
+
+body header ul li {
+  margin: 0;
+}
+
+body header ul li a {
+  color: #000;
+}
+/*# sourceMappingURL=index.css.map */
